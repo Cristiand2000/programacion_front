@@ -1,4 +1,4 @@
-const url = 'http://localhost:8082/api/programaciones' 
+const url = 'https://api-programacion.onrender.com/api/programaciones' 
 //url de la api. Al desplegarla en el servidor local colocar la api del servi
 const listar = async() => {
     let respuesta = ''
